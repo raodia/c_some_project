@@ -1,8 +1,10 @@
 
 #include <stdio.h>
+#include "hello_world.c"
+#include "fibonacci.h"
 
 int main() {
-    printf("hello yu!");
+    hello_world();
 
     return 0;
 }

@@ -1,1 +1,9 @@
-int main(int argc, char **argv) { return 0; }
+
+#include <stdio.h>
+
+int main() {
+    printf("hello yu!");
+
+    return 0;
+}
+
